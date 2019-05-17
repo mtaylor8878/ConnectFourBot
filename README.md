@@ -1,4 +1,4 @@
-# ConnectFourBot
+# Connect Four Bot
 
 An AI designed to play Connect Four with a user. Uses the Minimax algorithm with an 8-ply game tree.
 
